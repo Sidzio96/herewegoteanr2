@@ -1,0 +1,39 @@
+{
+  "name": "herewegoteanr2",
+  "version": "1.0.0",
+  "description": "That my demonstration of basic app :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sidzio96/herewegoteanr2.git"
+  },
+  "dependencies": {
+    "herewegoteanr2": "1.0.0",
+    "thekingisback": "1.0.0",
+     "sashasomple": "1.0.0",
+     "starknetscamxd": "1.0.0",
+    "finnishboy1": "1.0.0",
+    "snoudengod": "1.0.0",
+    "cryptoukr1a": "1.0.0",
+    "slaytea": "1.0.0",
+    "project_tea_ol": "1.0.0",
+    "teaispower": "1.0.0",
+    "sanulovetea": "1.0.0",
+   "insanetea": "1.0.0",
+   "herewegotea": "1.0.0",
+   "tea_kozmickai": "1.0.0",
+   "1337blacket": "1.0.0",
+   "maladoy4aek": "1.0.0",
+   "sharkyteeea": "1.0.0",
+    "Herbatkaaa": "1.0.0"
+  }, 
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sidzio96/herewegoteanr2/issues"
+  },
+  "homepage": "https://github.com/Sidzio96/herewegoteanr2#readme"
+}
